@@ -1,3 +1,3 @@
 CodeClauseInternship_Airline-Reservation-System
 
-developed application using java swing ui
+ developed application using java swing ui
